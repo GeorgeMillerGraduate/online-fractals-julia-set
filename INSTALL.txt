@@ -1,0 +1,9 @@
+Julia Set Studio — publication edition
+
+Extract the complete ZIP directly into public_html/apps/julia-set/ and overwrite existing files. Keep css, js and images beside index.html. Press Ctrl+F5.
+
+Matches the approved three-column concept with custom microscope illustration and spiral masthead, exact shared compass logo, compact Julia render and palette beneath. Real HTML headings and controls.
+
+All original maths/rendering modules are unchanged. app.js adds only the centre constant display and two working canvas toolbar buttons. The app uses bundled jQuery 4.0.0 (MIT), replacing the external CDN dependency; licence included.
+
+Verified: live render, four presets, stop, zoom out, reset, add/remove colours and phone/tablet widths without horizontal overflow. Download and drag zoom code retained.
